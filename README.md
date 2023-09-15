@@ -19,7 +19,9 @@ O repositório dio-trilha-java-basico possui a seguinte estrutura:
 * * **tipos-variaveis**: Trata dos tipos básicos de variáveis em Java.
 * * **metodos**: Apresenta os conceitos básicos de métodos em Java.
 * * **terminal**: Contém exercícios com interação do usuário pelo terminal GitBash, pelo prompt de comando do Windows e pelos argumentos do arquivo launch.json.
+* * **tipos-variaveis**: Contém exercícios relacionados a condicionais, repetições e exceções.
 * **exercicio-conta-banco**: Projeto Java que simula uma conta bancária com duas classes: ContaTerminal e DadosCliente, conforme o desafio proposto.
+
 
 ## Desafio - Simulando Uma Conta Bancária Através Do Terminal/Console
 Requisitos
@@ -45,6 +47,13 @@ Os campos em [ ] serão preenchidos com as informações fornecidas pelo usuári
 ```
 
 Os detalhes do desafio são encontrados no repositório [trilha-java-basico](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
+
+## Ambiente de Desenvolvimento
+Este projeto foi desenvolvido e testado nas seguintes condições:
+
+Versão Java: [Java 20.0.1.]
+IDE: [VSCode]
+Sistema Operacional: [Windows 10] 
 
 <p align="center">
   <img width="300" height="100" src="https://static.wixstatic.com/media/7a378f_5140deabd7d040378d740069cb692b87~mv2.png/v1/crop/x_0,y_10,w_1334,h_493/fill/w_568,h_208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20DIO.png">
