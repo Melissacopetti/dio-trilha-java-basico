@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Excecoes/|Condicionais/|Repeticoes/" kind="src" path="controle-fluxo/controle-fluxo/src"/>
+	<classpathentry kind="src" path="controle-fluxo/controle-fluxo/src/Condicionais"/>
+	<classpathentry kind="src" path="controle-fluxo/controle-fluxo/src/Excecoes"/>
+	<classpathentry kind="src" path="controle-fluxo/controle-fluxo/src/Repeticoes"/>
+	<classpathentry kind="src" path="metodos/sistema-smart-tv/src"/>
+	<classpathentry kind="src" path="pacotes/src"/>
+	<classpathentry kind="src" path="terminal/projeto-terminal/src"/>
+	<classpathentry kind="src" path="tipos-variaveis/src"/>
+	<classpathentry kind="output" path="controle-fluxo/controle-fluxo/bin"/>
+</classpath>
