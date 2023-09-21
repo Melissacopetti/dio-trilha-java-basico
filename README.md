@@ -49,8 +49,8 @@ Os campos em [ ] serão preenchidos com as informações fornecidas pelo usuári
 
 Os detalhes do desafio são encontrados no repositório [trilha-java-basico](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
 
-### Estrutura de "tipos-variaveis" (Atualizado)
-Dentro do diretório "Estudos", o projeto "tipos-variaveis" foi atualizado e seus conteúdos divididos em três pastas:
+### Estrutura de "tipos-variaveis" (
+Dentro do diretório "Estudos", o projeto "tipos-variaveis" os conteúdos divididos em três pastas:
 
 * **Condicionais:** Contém exercícios para treinamento das condicionais if, else e ternários.
 
@@ -59,7 +59,7 @@ Dentro do diretório "Estudos", o projeto "tipos-variaveis" foi atualizado e seu
 * **Excecoes:** Inclui exercícios relacionados a exceções e tratativa de erros try-catch.
 
 ### Pilares da Programação Orientada a Objetos e Interfaces
-O projeto PilaresPOO foi adicionado ao repositório e contém os seguintes diretórios:
+O projeto PilaresPOO contém os seguintes diretórios:
 
 * **exemploEncapsulamento:** Exercícios e exemplos relacionados ao pilar de Encapsulamento.
 
@@ -79,6 +79,6 @@ Este projeto foi desenvolvido e testado nas seguintes condições:
 </p>
 
 <h4 align="justify">
-Este projeto é parte do Santander Bootcamp 2023 - Backend Java da Dio, e tem como objetivo consolidar os conhecimentos adquiridos no módulo de Sintaxe da linguagem Java.</h4>
-<h4 align="justify">
+Este projeto é parte do Santander Bootcamp 2023 - Backend Java da Dio, e tem como objetivo consolidar os conhecimentos adquiridos no módulo de Sintaxe da linguagem Java.
+
 Sinta-se à vontade para clonar este repositório e executar o projeto em sua máquina local para praticar os conceitos apresentados durante o curso. Boa codificação!</h4>
