@@ -49,7 +49,7 @@ Os campos em [ ] serão preenchidos com as informações fornecidas pelo usuári
 
 Os detalhes do desafio são encontrados no repositório [trilha-java-basico](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
 
-### Estrutura de "tipos-variaveis" (
+### Estrutura de "tipos-variaveis" 
 Dentro do diretório "Estudos", o projeto "tipos-variaveis" os conteúdos divididos em três pastas:
 
 * **Condicionais:** Contém exercícios para treinamento das condicionais if, else e ternários.
